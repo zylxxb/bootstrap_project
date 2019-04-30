@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#header{
+  border: 1px solid #ccc;
+  height: 50px;
+}
+
+#container{
+}
+
+#sidebar{
+  position: absolute;
+  width: 220px;
+  border-right:1px solid  #ccc;
+
+}
+
+#content{
+  margin-left: 225px;
+  height: 100%;
+}
